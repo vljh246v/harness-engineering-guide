@@ -1,0 +1,9 @@
+{
+  "name": "harness-init",
+  "version": "1.0.0",
+  "description": "Harness engineering scaffolding: initialize a new project or apply harness infrastructure to an existing project",
+  "author": {
+    "name": "Jaehyun Lim",
+    "email": "vljh246v@gmail.com"
+  }
+}

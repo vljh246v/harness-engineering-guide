@@ -1,0 +1,5 @@
+# 이 파일은 task-finish.sh가 자동으로 기록합니다 (append-only)
+# 형식: {"ts":"...", "task":"...", "validator":"...", "result":"pass|fail", "error":"..."}
+# 예시:
+# {"ts":"2026-04-14T09:00:00Z","task":"feat-example","validator":"01-build","result":"pass"}
+# {"ts":"2026-04-14T09:05:00Z","task":"feat-example","validator":"02-test","result":"fail","error":"NullPointerException at UserService.kt:45"}

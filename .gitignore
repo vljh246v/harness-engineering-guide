@@ -1,0 +1,25 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment
+.env
+.env.*
+*.local
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Worktrees
+.worktrees/
+
+# macOS
+.DS_Store
+
+# Large binaries
+*.pdf
+
+# Private docs
+docs/superpowers/
+docs/wiki/

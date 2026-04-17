@@ -1,0 +1,9 @@
+{
+  "name": "harness-engineering-guide",
+  "version": "1.0.0",
+  "description": "Harness engineering guide and plugins",
+  "author": {
+    "name": "Jaehyun Lim",
+    "email": "vljh246v@gmail.com"
+  }
+}

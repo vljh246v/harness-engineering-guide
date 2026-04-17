@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 환경 파일 (절대 커밋 금지)
+.env
+.env.*
+*.local
+
+# 로그
+logs/sessions/
+
+# 워크트리
+.worktrees/
+
+# macOS
+.DS_Store
+
+# Kotlin
+*.class

@@ -1,0 +1,5 @@
+# This file is automatically appended by task-finish.sh (append-only)
+# Format: {"ts":"...", "task":"...", "validator":"...", "result":"pass|fail", "error":"..."}
+# Example:
+# {"ts":"2026-04-14T09:00:00Z","task":"feat-example","validator":"01-build","result":"pass"}
+# {"ts":"2026-04-14T09:05:00Z","task":"feat-example","validator":"02-test","result":"fail","error":"NullPointerException at UserService.kt:45"}
